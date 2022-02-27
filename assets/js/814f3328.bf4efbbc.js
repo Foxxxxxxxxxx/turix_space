@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkturix_space_2=self.webpackChunkturix_space_2||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u7f51\u7ad9\u65e5\u5fd7","permalink":"/blog/website_log"}]}')}}]);

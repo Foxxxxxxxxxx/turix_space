@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkturix_space_2=self.webpackChunkturix_space_2||[]).push([[3011],{5745:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
